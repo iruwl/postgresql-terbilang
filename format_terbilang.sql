@@ -12,6 +12,7 @@ begin
 
   /*
   * irul@20160403
+  * https://rubrikbahasa.wordpress.com/2009/02/27/sistem-bilangan-besar/
   * http://www.ortax.org/ortax/?mod=aturan&hlm=404&page=show&id=2173#
   * http://uangindonesia.com/cara-menulis-mata-uang-rupiah-rp-benar/
   * http://stiekalpatarucilengsi.blogspot.co.id/2012/01/pembulatan-di-faktur-pajak.html
